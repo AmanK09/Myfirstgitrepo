@@ -5,3 +5,4 @@ no one ever reads this. master
 changes added. mynewbranch. changes before merge done.
 
 new changes added for github.
+new
